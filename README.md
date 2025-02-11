@@ -54,7 +54,7 @@ pip install streamlit
 | **PDF Processing**    | PyPDF2                                 |
 | **Web Scraping**      | BeautifulSoup4                        |
 | **API Documentation** | Swagger/OpenAPI                       |
-| **Cloud Deployment**  | Vercel (Backend), Streamlit Cloud (Frontend) |
+
 
 ---
 
@@ -77,3 +77,4 @@ Contributions are welcome! Follow these steps to contribute:
    git checkout -b feature/amazing-feature
 
 
+```
