@@ -15,7 +15,7 @@ An AI-powered research assistant that processes PDFs/URLs/text, generates summar
 
 
 
-## Features ✨![Uploading Screenshot 2025-02-11 225709.png…]()
+## Features ✨
 
 - **Multi-Modal Input**: Process PDFs, URLs, and raw text
 - **AI Summarization**: BART/SciBERT models for key insights
