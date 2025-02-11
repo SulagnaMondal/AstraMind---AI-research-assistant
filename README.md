@@ -19,7 +19,7 @@ An AI-powered research assistant that processes PDFs/URLs/text, generates summar
 ## Installation 🛠️
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/deepseat-research-assistant.git
+git clone https://github.com/SulagnaMondal/AstraMind---AI-research-assistant.git
 cd deepseat-research-assistant
 
 # Backend setup
