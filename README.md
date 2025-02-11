@@ -39,3 +39,18 @@ pip install -r requirements.txt
 # Frontend setup (Streamlit)
 cd ..
 pip install streamlit
+```
+
+Tech Stack 💻
+Component	Technologies Used
+Backend Framework	FastAPI
+Frontend Framework	Streamlit
+AI Models	BART-Large, SciBERT, CodeT5
+Vector Database	AstraDB (Cassandra)
+Embeddings	HuggingFace all-mpnet-base-v2
+NLP Pipeline	LangChain
+PDF Processing	PyPDF2
+Web Scraping	BeautifulSoup4
+API Documentation	Swagger/OpenAPI
+Cloud Deployment	Vercel (Backend), Streamlit Cloud (Frontend)
+
