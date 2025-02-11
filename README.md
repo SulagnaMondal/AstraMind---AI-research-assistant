@@ -56,4 +56,24 @@ pip install streamlit
 | **API Documentation** | Swagger/OpenAPI                       |
 | **Cloud Deployment**  | Vercel (Backend), Streamlit Cloud (Frontend) |
 
+---
+
+## 🚀 Usage  
+
+```bash
+# Start backend
+cd backend && uvicorn main:app --reload
+
+# Start frontend (in separate terminal)
+streamlit run frontend.py
+```
+## 🤝 Contributing  
+
+Contributions are welcome! Follow these steps to contribute:  
+
+1. **Fork the repository**  
+2. **Create your feature branch:**  
+   ```bash
+   git checkout -b feature/amazing-feature
+
 
